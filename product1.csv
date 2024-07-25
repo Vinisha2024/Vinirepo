@@ -1,0 +1,11 @@
+product_id,product_name,product_size,product_category_id,product_qty_type
+1,Habanero Pepper,medium,1,lbs
+2,Jalapeno Peppers ,small,1,lbs
+3,Poblano Pepper,large,1,unit
+4,Banana Peppers,8 oz,3,unit
+5,Wheat Bread,1.5 lbs,3,unit
+6,Cut Zinnias Bouquet,medium,5,unit
+7,Apple Pie,10,3,unit
+8,Cherry Pie,10,3,unit
+9,Sweet Potatoes,medium,1,lbs
+10,Eggs,1 dozen,6,unit
